@@ -30,4 +30,4 @@ jobs:
       - name: Sync to cnpm 🔄
         run: |
           npm i -g cnpm
-          cnpm sync @hkyhy/copyright-generator
+          cnpm sync cn-copyright-generator
