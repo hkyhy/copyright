@@ -1,0 +1,8 @@
+node_modules/
+*.log
+.DS_Store
+copyright/
+test-output/
+.env
+.git/
+.gitignore

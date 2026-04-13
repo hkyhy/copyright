@@ -1,0 +1,57 @@
+{
+  "name": "copyright-generator",
+  "version": "1.0.0",
+  "description": "中国软件著作权申请材料自动生成工具 - 自动生成申请表、源代码文档、用户手册等材料",
+  "main": "src/index.js",
+  "bin": {
+    "copyright-gen": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "example": "node examples/basic-usage.js",
+    "example:custom": "node examples/custom-module.js",
+    "local-test": "bash scripts/install-test.sh",
+    "publish-npm": "bash scripts/publish.sh"
+  },
+  "keywords": [
+    "copyright",
+    "软著",
+    "软件著作权",
+    "申请材料",
+    "中国版权",
+    "documentation-generator",
+    "china",
+    "software-copyright",
+    "cli",
+    "generator",
+    "automation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/copyright-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/copyright-generator/issues"
+  },
+  "homepage": "https://github.com/yourusername/copyright-generator#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "commander": "^11.0.0",
+    "chalk": "^4.1.2",
+    "ora": "^5.4.1",
+    "inquirer": "^8.2.5"
+  },
+  "files": [
+    "bin/",
+    "src/",
+    "templates/",
+    "README.md",
+    "README.zh-CN.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ]
+}
