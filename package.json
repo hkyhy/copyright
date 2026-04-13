@@ -1,5 +1,5 @@
 {
-  "name": "cn-copyright-generator",
+  "name": "@hkyhy/copyright-generator",
   "version": "1.0.0",
   "description": "中国软件著作权申请材料自动生成工具 - 自动生成申请表、源代码文档、用户手册等材料",
   "main": "src/index.js",
