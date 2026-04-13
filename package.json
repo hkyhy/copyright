@@ -1,6 +1,6 @@
 {
-  "name": "copyright-generator",
-  "version": "1.0.1",
+  "name": "@hkyhy/copyright-generator",
+  "version": "1.0.0",
   "description": "中国软件著作权申请材料自动生成工具 - 自动生成申请表、源代码文档、用户手册等材料",
   "main": "src/index.js",
   "bin": {
@@ -30,12 +30,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/copyright-generator.git"
+    "url": "https://github.com/hkyhy/copyright.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/copyright-generator/issues"
+    "url": "https://github.com/hkyhy/copyright/issues"
   },
-  "homepage": "https://github.com/yourusername/copyright-generator#readme",
+  "homepage": "https://github.com/hkyhy/copyright#readme",
   "engines": {
     "node": ">=14.0.0"
   },
