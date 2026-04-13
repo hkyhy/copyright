@@ -1,0 +1,15 @@
+{
+  "name": "模块名称",
+  "version": "V1.0",
+  "description": "模块描述",
+  "files": [
+    "src/module-path/",
+    "server/module-api.js"
+  ],
+  "features": [
+    "功能1：描述",
+    "功能2：描述",
+    "功能3：描述"
+  ],
+  "techStack": "技术栈描述"
+}
