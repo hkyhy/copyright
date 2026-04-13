@@ -187,7 +187,7 @@ pandoc 软件著作权登记申请表.md -o 软件著作权登记申请表.docx
 
 ### 联系版权中心：
 - 电话：010-84195640
-- 官网：http://www.ccopyright.com
+- 官网：http://www.copyright.com
 
 ## 🎊 恭喜你！
 

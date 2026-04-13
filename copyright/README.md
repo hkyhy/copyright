@@ -115,7 +115,7 @@ python3 copyright/scripts/generate_module_copyright.py digital-video-generator .
 
 ### 版权中心
 - **电话：** 010-84195640（北京补正组）
-- **官网：** http://www.ccopyright.com
+- **官网：** http://www.copyright.com
 
 ### 技术支持
 - 使用Kiro询问软著相关问题
