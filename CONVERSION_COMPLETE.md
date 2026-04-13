@@ -192,7 +192,7 @@ npm run copyright
 ## 🔗 相关链接
 
 - **npm 官网**: https://www.npmjs.com
-- **中国版权保护中心**: http://www.ccopyright.com
+- **中国版权保护中心**: http://www.copyright.com
 - **软著申请教程**: https://github.com/AlexanderZhou01/China-software-copyright
 
 ## 💡 重要提示

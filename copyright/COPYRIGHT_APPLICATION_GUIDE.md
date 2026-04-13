@@ -107,7 +107,7 @@ A:
 ## 提交方式
 
 ### 线上提交
-访问中国版权保护中心官网：http://www.ccopyright.com
+访问中国版权保护中心官网：http://www.copyright.com
 注册账号后在线提交材料
 
 ### 线下提交
@@ -127,7 +127,7 @@ A:
 
 ## 参考资源
 
-- [中国版权保护中心官网](http://www.ccopyright.com)
+- [中国版权保护中心官网](http://www.copyright.com)
 - [软著申请教程](https://github.com/AlexanderZhou01/China-software-copyright)
 - [申请技巧](https://github.com/na57/chinese-copyright-application-skill)
 

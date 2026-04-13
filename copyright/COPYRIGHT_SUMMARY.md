@@ -195,7 +195,7 @@ done
 
 ### 版权中心
 - 北京补正组：010-84195640
-- 官网：http://www.ccopyright.com
+- 官网：http://www.copyright.com
 
 ### 技术支持
 - 使用Kiro询问软著相关问题
@@ -212,7 +212,7 @@ done
 
 ## 参考资源
 
-- [中国版权保护中心](http://www.ccopyright.com)
+- [中国版权保护中心](http://www.copyright.com)
 - [软著申请教程](https://github.com/AlexanderZhou01/China-software-copyright)
 - [申请技巧](https://github.com/na57/chinese-copyright-application-skill)
 
